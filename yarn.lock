@@ -373,6 +373,13 @@
     postcss "^8.4.41"
     tailwindcss "4.1.11"
 
+"@talkjs/react@^0.1.11":
+  version "0.1.11"
+  resolved "https://registry.yarnpkg.com/@talkjs/react/-/react-0.1.11.tgz#541296c677c57af3f8468cf14372bb2ee245eb53"
+  integrity sha512-ZJ6vL7Qz5DfPiLZZeISLDXDCpYCdsDQXxR9t8ohNuQ0m1gWqjvaYA8btBZoUYI1dADtgegyVzlu4jZkXkNP1Vg==
+  dependencies:
+    fast-deep-equal "^3.1.3"
+
 "@tybys/wasm-util@^0.10.0":
   version "0.10.0"
   resolved "https://registry.yarnpkg.com/@tybys/wasm-util/-/wasm-util-0.10.0.tgz#2fd3cd754b94b378734ce17058d0507c45c88369"
@@ -466,6 +473,11 @@ enhanced-resolve@^5.18.1:
   dependencies:
     graceful-fs "^4.2.4"
     tapable "^2.2.0"
+
+fast-deep-equal@^3.1.3:
+  version "3.1.3"
+  resolved "https://registry.yarnpkg.com/fast-deep-equal/-/fast-deep-equal-3.1.3.tgz#3a7d56b559d6cbc3eb512325244e619a65c6c525"
+  integrity sha512-f3qQ9oQy9j2AhBe/H9VC91wLmKBCCU/gDOnKNAYG5hswO7BLKj09Hc5HYNz9cGI++xlpDCIgDaitVs03ATR84Q==
 
 graceful-fs@^4.2.4:
   version "4.2.11"
@@ -700,6 +712,11 @@ tailwindcss@4.1.11, tailwindcss@^4:
   version "4.1.11"
   resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-4.1.11.tgz#799af3e98c19c5baaefafc6e0c16304a0e684854"
   integrity sha512-2E9TBm6MDD/xKYe+dvJZAmg3yxIEDNRc0jwlNyDg/4Fil2QcSLjFKGVff0lAf1jjeaArlG/M75Ey/EYr/OJtBA==
+
+talkjs@^0.40.1:
+  version "0.40.1"
+  resolved "https://registry.yarnpkg.com/talkjs/-/talkjs-0.40.1.tgz#b45ee215521dd4ee82518a09c2a31a60019c439d"
+  integrity sha512-nkyIDjKWXISL9BmVG7DO05TBX+0S6JzSHhZVsa5priRgFts6F5COLePMnG6er4GZIp2Zr88yRFrmaGN62deXMA==
 
 tapable@^2.2.0:
   version "2.2.2"
